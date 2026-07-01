@@ -1,0 +1,1 @@
+Agentic RAG system combining multimodal retrieval (text/image) with autonomous agent reasoning — built with [LangChain/LlamaIndex], [vector DB used], and Python.
